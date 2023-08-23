@@ -1,6 +1,5 @@
 import "./App.css";
-
-import Img from "./assets/image/B87D291C-AC18-54E0-B03D-F7B7E4C2DC18.png";
+import Img from "./assets/images/B87D291C-AC18-54E0-B03D-F7B7E4C2DC18.png";
 import { Card } from "./components/Card";
 import { GeneralMembers } from "./components/GeneralMembers";
 import { Committee } from "./components/committee";
@@ -46,25 +45,25 @@ function App() {
               name="Prof. Dr. Tuhin Wadud"
               pod1="Chief Moderator,"
               pod2="Professor, Department of Bangla,"
-              url="src/assets/image/mod1.jpg"
+              url="assets/image/mod1.jpg"
             />
             <Card
               name="A. B. M. Nurullah"
               pod1="Moderator,"
               pod2="Assistant Professor, Department of Sociology,"
-              url="../src/assets/image/mod2.jpg"
+              url="assets/image/mod2.jpg"
             />
             <Card
               name="Md Rakibul Islam Bhuiyan"
               pod1="Moderator,"
               pod2="lecturer, Management Information System,"
-              url="../src/assets/image/mod3.jpg"
+              url="assets/image/mod3.jpg"
             />
             <Card
               name="Niaz Makhdum"
               pod1="Moderator,"
               pod2="lecturer, Department of Public Administration,"
-              url="../src/assets/image/mod4.jpg"
+              url="assets/image/mod4.jpg"
             />
           </div>
         </div>
@@ -81,13 +80,13 @@ function App() {
               <div className="grid grid-cols-1 items-stretch gap-8 mt-5 xl:mt-16 md:grid-cols-2 xl:grid-cols-2">
                 <Committee
                   name="Shamim Ahmmed"
-                  url="../src/assets/image/tuli.jpg"
+                  url="assets/image/tuli.jpg"
                   fb="www.google.com"
                   pod="president (2023-2024)"
                 />
                 <Committee
                   name="Ishrat Jahan Tumpa"
-                  url="../src/assets/image/tuli.jpg"
+                  url="assets/image/tuli.jpg"
                   pod="General secratery (2023-2024)"
                   fb="www.google.com"
                 />
@@ -139,33 +138,33 @@ function App() {
             <ImageCardv2
               link="https://www.facebook.com/rishad.nur"
               discription="First demo pic"
-              url="../src/assets/image/labu.jpg"
+              url="assets/image/labu.jpg"
             />
             <ImageCardv2
               link="https://www.facebook.com/rishad.nur"
               discription="First demo pic"
-              url="../src/assets/image/tuli.jpg"
+              url="assets/image/tuli.jpg"
             />
             <ImageCardv2
               link="https://www.facebook.com/rishad.nur"
               discription="First demo pic"
-              url="../src/assets/image/IMG_2952.JPG"
+              url="assets/image/IMG_2952.JPG"
             />
 
             <ImageCardv2
               link="https://www.facebook.com/rishad.nur"
               discription="First demo pic"
-              url="../src/assets/image/IMG_4753.JPG"
+              url="assets/image/IMG_4753.JPG"
             />
             <ImageCardv2
               link="https://www.facebook.com/rishad.nur"
               discription="First demo pic"
-              url="../src/assets/image/upload1.jpg"
+              url="assets/image/upload1.jpg"
             />
             <ImageCardv2
               link="https://www.facebook.com/rishad.nur"
               discription="First demo pic"
-              url="../src/assets/image/labu.jpg"
+              url="assets/image/labu.jpg"
             />
           </div>
         </div>
@@ -179,7 +178,7 @@ function App() {
           <div class="container mx-auto grid gap-4 md:grid-cols-2 lg:grid-cols-3">
             <div class="relative overflow-hidden rounded-lg shadow-md">
               <img
-                src="../src/assets/image/labu.jpg"
+                src="assets/image/labu.jpg"
                 alt="Photo 1"
                 class="object-cover w-full h-full transition-transform transform hover:scale-105"
               />
@@ -190,7 +189,7 @@ function App() {
 
             <div class="relative overflow-hidden rounded-lg shadow-md">
               <img
-                src="../src/assets/image/tuli.jpg"
+                src="assets/image/tuli.jpg"
                 alt="Photo 2"
                 class="object-cover w-full h-full transition-transform transform hover:scale-105"
               />
@@ -201,7 +200,7 @@ function App() {
 
             <div class="relative overflow-hidden rounded-lg shadow-md">
               <img
-                src="../src/assets/image/IMG_3011.JPG"
+                src="assets/image/IMG_3011.JPG"
                 alt="Photo 1"
                 class="object-cover w-full h-full transition-transform transform hover:scale-105"
               />
@@ -212,7 +211,7 @@ function App() {
 
             <div class="relative overflow-hidden rounded-lg shadow-md">
               <img
-                src="../src/assets/image/IMG_2952.JPG"
+                src="assets/image/IMG_2952.JPG"
                 alt="Photo 1"
                 class="object-cover w-full h-full transition-transform transform hover:scale-105"
               />
@@ -222,7 +221,7 @@ function App() {
             </div>
             <div class="relative overflow-hidden rounded-lg shadow-md">
               <img
-                src="../src/assets/image/IMG_4753.JPG"
+                src="assets/image/IMG_4753.JPG"
                 alt="Photo 1"
                 class="object-cover w-full h-full transition-transform transform hover:scale-105"
               />
@@ -232,7 +231,7 @@ function App() {
             </div>
             <div class="relative overflow-hidden rounded-lg shadow-md">
               <img
-                src="../src/assets/image/B87D291C-AC18-54E0-B03D-F7B7E4C2DC18.png"
+                src="assets/image/B87D291C-AC18-54E0-B03D-F7B7E4C2DC18.png"
                 alt="Photo 1"
                 class="object-cover w-full h-full transition-transform transform hover:scale-105"
               />

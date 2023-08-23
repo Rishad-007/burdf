@@ -8,7 +8,7 @@ export const AboutUs = () => {
           <div class="container mx-auto flex flex-col lg:flex-row items-center">
             <div class="lg:w-1/2 lg:pr-16 p-8">
               <img
-                src="../src/assets/image/IMG_4753.JPG"
+                src="assets/image/IMG_4753.JPG"
                 alt="About Us"
                 class="w-full h-auto rounded-lg shadow-md"
               />
@@ -63,7 +63,10 @@ export const AboutUs = () => {
                     Our Facebook page
                   </button>
                 </a>
-                <a href="https://www.facebook.com/groups/1019690851430799" className="px-2">
+                <a
+                  href="https://www.facebook.com/groups/1019690851430799"
+                  className="px-2"
+                >
                   <button
                     type="button"
                     class="text-white  bg-[#3b5998] hover:bg-[#3b5998]/90 focus:ring-4 focus:outline-none focus:ring-[#3b5998]/50 font-medium rounded-lg text-sm px-5 py-2.5 text-center inline-flex items-center dark:focus:ring-[#3b5998]/55 mr-2 mb-2"
