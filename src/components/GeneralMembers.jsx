@@ -35,13 +35,13 @@ export const GeneralMembers = () => {
             name="MD. Rishad Nur"
             pod="Publicity Secretary"
             fb="#"
-            url="../src/assets/image/tuli.jpg"
+            url="assets/image/tuli.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
           <Committee
             name="Abdullah Al Asif Akondo"
-            url="../src/assets/image/tuli.jpg"
+            url="assets/image/tuli.jpg"
             pod="Vice president"
             fb="#"
           />
@@ -51,7 +51,7 @@ export const GeneralMembers = () => {
             name="Billal Hossain"
             pod="Vice President"
             fb="#"
-            url="../src/assets/image/tuli.jpg"
+            url="assets/image/tuli.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
@@ -59,7 +59,7 @@ export const GeneralMembers = () => {
             name="Al-amin Shadik Sayem"
             pod="Vice President"
             fb="#"
-            url="../src/assets/image/tuli.jpg"
+            url="assets/image/tuli.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
@@ -67,7 +67,7 @@ export const GeneralMembers = () => {
             name="Asif Mahmud"
             pod="Vice President"
             fb="#"
-            url="../src/assets/image/tuli.jpg"
+            url="assets/image/tuli.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
@@ -75,7 +75,7 @@ export const GeneralMembers = () => {
             name="Billal Hossain"
             pod="Vice President"
             fb="#"
-            url="../src/assets/image/tuli.jpg"
+            url="assets/image/tuli.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
@@ -83,7 +83,7 @@ export const GeneralMembers = () => {
             name="Galiba Ibnat"
             pod="Vice President"
             fb="#"
-            url="../src/assets/image/tuli.jpg"
+            url="assets/image/tuli.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
@@ -91,7 +91,7 @@ export const GeneralMembers = () => {
             name="Gazi Azam Hossan"
             pod="Vice President"
             fb="#"
-            url="../src/assets/image/tuli.jpg"
+            url="assets/image/tuli.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
@@ -99,7 +99,7 @@ export const GeneralMembers = () => {
             name="Imratul Jannat Usha"
             pod="Vice President"
             fb="#"
-            url="../src/assets/image/tuli.jpg"
+            url="assets/image/tuli.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
@@ -107,7 +107,7 @@ export const GeneralMembers = () => {
             name="Juthi Rani"
             pod="Publicity Secretary"
             fb="#"
-            url="../src/assets/image/tuli.jpg"
+            url="assets/image/tuli.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
@@ -115,7 +115,7 @@ export const GeneralMembers = () => {
             name="Mahafuzar Rahman Rifat"
             pod="Publicity Secretary"
             fb="#"
-            url="../src/assets/image/tuli.jpg"
+            url="assets/image/tuli.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
@@ -123,7 +123,7 @@ export const GeneralMembers = () => {
             name="Maheda Taiyeba"
             pod="Publicity Secretary"
             fb="#"
-            url="../src/assets/image/tuli.jpg"
+            url="assets/image/tuli.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
@@ -131,7 +131,7 @@ export const GeneralMembers = () => {
             name="MD Abul Khayer Jayed"
             pod="Publicity Secretary"
             fb="#"
-            url="../src/assets/image/tuli.jpg"
+            url="assets/image/tuli.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
@@ -139,7 +139,7 @@ export const GeneralMembers = () => {
             name="MD Hridoy"
             pod="Publicity Secretary"
             fb="#"
-            url="../src/assets/image/tuli.jpg"
+            url="assets/image/tuli.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
@@ -147,7 +147,7 @@ export const GeneralMembers = () => {
             name="Md Juwel Rana"
             pod="Publicity Secretary"
             fb="#"
-            url="../src/assets/image/tuli.jpg"
+            url="assets/image/tuli.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
@@ -155,7 +155,7 @@ export const GeneralMembers = () => {
             name="Md Siddikur Rahman"
             pod="Publicity Secretary"
             fb="#"
-            url="../src/assets/image/tuli.jpg"
+            url="assets/image/tuli.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
@@ -163,7 +163,7 @@ export const GeneralMembers = () => {
             name="Md. Masudur Rahaman Masud"
             pod="Publicity Secretary"
             fb="#"
-            url="../src/assets/image/tuli.jpg"
+            url="assets/image/tuli.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
@@ -171,7 +171,7 @@ export const GeneralMembers = () => {
             name="Nimmi Akhter"
             pod="Publicity Secretary"
             fb="#"
-            url="../src/assets/image/tuli.jpg"
+            url="assets/image/tuli.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
@@ -179,7 +179,7 @@ export const GeneralMembers = () => {
             name="Reny Akter"
             pod="Publicity Secretary"
             fb="#"
-            url="../src/assets/image/tuli.jpg"
+            url="assets/image/tuli.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
@@ -187,7 +187,7 @@ export const GeneralMembers = () => {
             name="Robayed Zahin"
             pod="Publicity Secretary"
             fb="#"
-            url="../src/assets/image/tuli.jpg"
+            url="assets/image/tuli.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
@@ -195,7 +195,7 @@ export const GeneralMembers = () => {
             name="Saidur Rahman Drubo"
             pod="Publicity Secretary"
             fb="#"
-            url="../src/assets/image/tuli.jpg"
+            url="assets/image/tuli.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
@@ -203,7 +203,7 @@ export const GeneralMembers = () => {
             name="জুয়েল হক"
             pod="Publicity Secretary"
             fb="#"
-            url="../src/assets/image/tuli.jpg"
+            url="assets/image/tuli.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
@@ -211,7 +211,7 @@ export const GeneralMembers = () => {
             name="MD. Rishad Nur"
             pod="Publicity Secretary"
             fb="#"
-            url="../src/assets/image/tuli.jpg"
+            url="assets/image/tuli.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
@@ -219,7 +219,7 @@ export const GeneralMembers = () => {
             name="MD. Rishad Nur"
             pod="Publicity Secretary"
             fb="#"
-            url="../src/assets/image/tuli.jpg"
+            url="assets/image/tuli.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
@@ -227,7 +227,7 @@ export const GeneralMembers = () => {
             name="MD. Rishad Nur"
             pod="Publicity Secretary"
             fb="#"
-            url="../src/assets/image/tuli.jpg"
+            url="assets/image/tuli.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
@@ -235,7 +235,7 @@ export const GeneralMembers = () => {
             name="MD. Rishad Nur"
             pod="Publicity Secretary"
             fb="#"
-            url="../src/assets/image/tuli.jpg"
+            url="assets/image/tuli.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
@@ -243,7 +243,7 @@ export const GeneralMembers = () => {
             name="MD. Rishad Nur"
             pod="Publicity Secretary"
             fb="#"
-            url="../src/assets/image/tuli.jpg"
+            url="assets/image/tuli.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
@@ -251,7 +251,7 @@ export const GeneralMembers = () => {
             name="MD. Rishad Nur"
             pod="Publicity Secretary"
             fb="#"
-            url="../src/assets/image/tuli.jpg"
+            url="assets/image/tuli.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
@@ -259,7 +259,7 @@ export const GeneralMembers = () => {
             name="MD. Rishad Nur"
             pod="Publicity Secretary"
             fb="#"
-            url="../src/assets/image/tuli.jpg"
+            url="assets/image/tuli.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
@@ -267,7 +267,7 @@ export const GeneralMembers = () => {
             name="MD. Rishad Nur"
             pod="Publicity Secretary"
             fb="#"
-            url="../src/assets/image/tuli.jpg"
+            url="assets/image/tuli.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
@@ -275,7 +275,7 @@ export const GeneralMembers = () => {
             name="MD. Rishad Nur"
             pod="Publicity Secretary"
             fb="#"
-            url="../src/assets/image/tuli.jpg"
+            url="assets/image/tuli.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
@@ -283,7 +283,7 @@ export const GeneralMembers = () => {
             name="MD. Rishad Nur"
             pod="Publicity Secretary"
             fb="#"
-            url="../src/assets/image/tuli.jpg"
+            url="assets/image/tuli.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
@@ -291,7 +291,7 @@ export const GeneralMembers = () => {
             name="MD. Rishad Nur"
             pod="Publicity Secretary"
             fb="#"
-            url="../src/assets/image/tuli.jpg"
+            url="assets/image/tuli.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
@@ -299,7 +299,7 @@ export const GeneralMembers = () => {
             name="MD. Rishad Nur"
             pod="Publicity Secretary"
             fb="#"
-            url="../src/assets/image/tuli.jpg"
+            url="assets/image/tuli.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
@@ -307,7 +307,7 @@ export const GeneralMembers = () => {
             name="MD. Rishad Nur"
             pod="Publicity Secretary"
             fb="#"
-            url="../src/assets/image/tuli.jpg"
+            url="assets/image/tuli.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
@@ -315,7 +315,7 @@ export const GeneralMembers = () => {
             name="MD. Rishad Nur"
             pod="Publicity Secretary"
             fb="#"
-            url="../src/assets/image/tuli.jpg"
+            url="assets/image/tuli.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
@@ -323,7 +323,7 @@ export const GeneralMembers = () => {
             name="MD. Rishad Nur"
             pod="Publicity Secretary"
             fb="#"
-            url="../src/assets/image/tuli.jpg"
+            url="assets/image/tuli.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
@@ -331,7 +331,7 @@ export const GeneralMembers = () => {
             name="MD. Rishad Nur"
             pod="Publicity Secretary"
             fb="#"
-            url="../src/assets/image/tuli.jpg"
+            url="assets/image/tuli.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
@@ -339,7 +339,7 @@ export const GeneralMembers = () => {
             name="MD. Rishad Nur"
             pod="Publicity Secretary"
             fb="#"
-            url="../src/assets/image/tuli.jpg"
+            url="assets/image/tuli.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
@@ -347,7 +347,7 @@ export const GeneralMembers = () => {
             name="MD. Rishad Nur"
             pod="Publicity Secretary"
             fb="#"
-            url="../src/assets/image/tuli.jpg"
+            url="assets/image/tuli.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
@@ -355,7 +355,7 @@ export const GeneralMembers = () => {
             name="MD. Rishad Nur"
             pod="Publicity Secretary"
             fb="#"
-            url="../src/assets/image/tuli.jpg"
+            url="assets/image/tuli.jpg"
           />
         </SwiperSlide>
       </Swiper>
