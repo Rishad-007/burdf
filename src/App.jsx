@@ -130,10 +130,10 @@ function App() {
         </div>
       </section>
       <section className="h-auto pt-4 pb-12 bg-[#edc96d] dark:bg-gray-800">
-        <h2 class="text-2xl font-semibold text-center mb-6">
+        <h2 class="text-4xl font-semibold text-center mb-6">
           <span class="border-b-2 border-gray-600 pb-2">Photo Gallery</span>
         </h2>
-        <div class="bg-gray-100 py-16">
+        <div class=" py-16">
           <div class="container mx-auto grid gap-4 md:grid-cols-2 lg:grid-cols-3">
             <ImageCardv2
               link="https://www.facebook.com/rishad.nur"
@@ -164,13 +164,13 @@ function App() {
             <ImageCardv2
               link="https://www.facebook.com/rishad.nur"
               discription="First demo pic"
-              url="assets/image/labu.jpg"
+              url="assets/image/IMG_3011.JPG"
             />
           </div>
         </div>
       </section>
 
-      <section className="h-auto pt-4 pb-12 bg-[#edc96d]">
+      {/* <section className="h-auto pt-4 pb-12 bg-[#edc96d]">
         <h2 class="text-3xl font-semibold text-center mb-6">
           <span class="border-b-2 border-gray-600 pb-2">Photo Gallery</span>
         </h2>
@@ -241,7 +241,7 @@ function App() {
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
 
       <section>
         <div className="px-4">
