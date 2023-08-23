@@ -8,7 +8,7 @@ import { Events } from "./components/Events";
 import { AboutUs } from "./components/AboutUs";
 import { Notice } from "./components/Notice";
 import { Notice2 } from "./components/Notice2";
-import {ImageCardv2} from "./components/ImageCardv2"
+import { ImageCardv2 } from "./components/ImageCardv2";
 
 function App() {
   return (
@@ -46,7 +46,7 @@ function App() {
               name="Prof. Dr. Tuhin Wadud"
               pod1="Chief Moderator,"
               pod2="Professor, Department of Bangla,"
-              url="../src/assets/image/mod1.jpg"
+              url="src/assets/image/mod1.jpg"
             />
             <Card
               name="A. B. M. Nurullah"
