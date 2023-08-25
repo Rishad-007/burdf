@@ -79,7 +79,7 @@ function App() {
             <div className="container px-6 pt-2 mx-auto">
               <div className="grid grid-cols-1 items-stretch gap-8 mt-5 xl:mt-16 md:grid-cols-2 xl:grid-cols-2">
                 <Committee
-                  name="Ishrat Jahan Tumpa"
+                  name="Israt Jahan Tumpa"
                   url="assets/image/tumpa.jpg"
                   fb="www.google.com"
                   pod="President (2023-2024)"

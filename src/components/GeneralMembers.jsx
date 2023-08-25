@@ -345,7 +345,7 @@ export const GeneralMembers = () => {
         </SwiperSlide>
         <SwiperSlide>
           <Committee
-            name="Shimanto Chakroborty "
+            name="Shimanto Chakroborty"
             pod="Assistant IT Secretary "
             fb="#"
             url="assets/image/unwoman.png"
