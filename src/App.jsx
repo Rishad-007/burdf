@@ -85,10 +85,10 @@ function App() {
                   pod="President (2023-2024)"
                 />
                 <Committee
-                  name="Ishrat Jahan Tumpa"
-                  url="assets/image/tuli.jpg"
+                  name="MD. Rishad Nur"
+                  url="assets/image/Rishad.jpg"
                   pod="General secratery (2023-2024)"
-                  fb="www.google.com"
+                  fb="https://www.facebook.com/rishad.nur"
                 />
               </div>
             </div>
@@ -172,6 +172,36 @@ function App() {
               link="https://www.facebook.com/rishad.nur"
               discription="Debate adda"
               url="assets/image/Round meeting.jpg"
+            />
+            <ImageCardv2
+              link="https://www.facebook.com/rishad.nur"
+              discription="Rainy Debate"
+              url="assets/image/IMG_6200.jpeg"
+            />
+            <ImageCardv2
+              link="https://www.facebook.com/rishad.nur"
+              discription="Debate Evaluation"
+              url="assets/image/IMG_6245.jpeg"
+            />
+            <ImageCardv2
+              link="https://www.facebook.com/rishad.nur"
+              discription="Debate Evaluation"
+              url="assets/image/IMG_6255.jpeg"
+            />
+            <ImageCardv2
+              link="https://www.facebook.com/rishad.nur"
+              discription="Debate Evaluation"
+              url="assets/image/IMG_6254.jpeg"
+            />
+            <ImageCardv2
+              link="https://www.facebook.com/rishad.nur"
+              discription="Debate Evaluation"
+              url="assets/image/IMG_6258.jpeg"
+            />
+            <ImageCardv2
+              link="https://www.facebook.com/rishad.nur"
+              discription="Debate Evaluation"
+              url="assets/image/IMG_6257.jpeg"
             />
           </div>
         </div>

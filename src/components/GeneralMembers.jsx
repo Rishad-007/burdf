@@ -265,90 +265,139 @@ export const GeneralMembers = () => {
         </SwiperSlide>
         <SwiperSlide>
           <Committee
-            name="MD. Rishad Nur"
-            pod="Publicity Secretary"
+            name="Abrar Samin"
+            pod="Assistant Cultural Secretary"
             fb="#"
-            url="assets/image/tuli.jpg"
+            url="assets/image/unman.png"
           />
         </SwiperSlide>
         <SwiperSlide>
           <Committee
-            name="MD. Rishad Nur"
-            pod="Publicity Secretary"
+            name="Jibon Kumar Roy"
+            pod="Assistant Debate Secretary"
             fb="#"
-            url="assets/image/tuli.jpg"
+            url="assets/image/unman.png"
           />
         </SwiperSlide>
         <SwiperSlide>
           <Committee
-            name="MD. Rishad Nur"
-            pod="Publicity Secretary"
+            name="Isfakun Nisa"
+            pod="Assistant Debate Secretary"
             fb="#"
-            url="assets/image/tuli.jpg"
+            url="assets/image/unwoman.png"
           />
         </SwiperSlide>
         <SwiperSlide>
           <Committee
-            name="MD. Rishad Nur"
-            pod="Publicity Secretary"
+            name="Airin Nahar"
+            pod="Assistant Debate Secretary"
             fb="#"
-            url="assets/image/tuli.jpg"
+            url="assets/image/unwoman.png"
           />
         </SwiperSlide>
         <SwiperSlide>
           <Committee
-            name="MD. Rishad Nur"
-            pod="Publicity Secretary"
+            name="Fakihatul Rumpa"
+            pod="Assistant women affairs Secretary"
             fb="#"
-            url="assets/image/tuli.jpg"
+            url="assets/image/unwoman.png"
           />
         </SwiperSlide>
         <SwiperSlide>
           <Committee
-            name="MD. Rishad Nur"
-            pod="Publicity Secretary"
+            name="Md Moshiur Rahman"
+            pod="Ast. Workshop and Reading Circle Secretary(Bangla)"
             fb="#"
-            url="assets/image/tuli.jpg"
+            url="assets/image/unman.png"
           />
         </SwiperSlide>
         <SwiperSlide>
           <Committee
-            name="MD. Rishad Nur"
-            pod="Publicity Secretary"
+            name="Pritam Deb Nath"
+            pod="Assistant Publicity Secretary"
             fb="#"
-            url="assets/image/tuli.jpg"
+            url="assets/image/unman.png"
           />
         </SwiperSlide>
         <SwiperSlide>
           <Committee
-            name="MD. Rishad Nur"
-            pod="Publicity Secretary"
+            name="Golam Rahman Shaon"
+            pod="Assistant Publicity Secretary"
             fb="#"
-            url="assets/image/tuli.jpg"
+            url="assets/image/unman.png"
           />
         </SwiperSlide>
         <SwiperSlide>
           <Committee
-            name="MD. Rishad Nur"
-            pod="Publicity Secretary"
+            name="Kayeem Uddin"
+            pod="Assistant Publicity Secretary"
             fb="#"
-            url="assets/image/tuli.jpg"
+            url="assets/image/unman.png"
           />
         </SwiperSlide>
         <SwiperSlide>
           <Committee
-            name="MD. Rishad Nur"
-            pod="Publicity Secretary"
+            name="Sathy Sarker"
+            pod="Assistant Human Welfare Secretary"
             fb="#"
-            url="assets/image/tuli.jpg"
+            url="assets/image/unwoman.png"
           />
         </SwiperSlide>
         <SwiperSlide>
           <Committee
-            name="MD. Rishad Nur"
-            pod="Publicity Secretary"
+            name="Shimanto Chakroborty "
+            pod="Assistant IT Secretary "
             fb="#"
-            url="assets/image/tuli.jpg"
+            url="assets/image/unwoman.png"
+          />
+        </SwiperSlide>
+        <SwiperSlide>
+          <Committee
+            name="Mahfuzur Rahman Siam"
+            pod="Assistant of English Wing"
+            fb="#"
+            url="assets/image/unman.png"
+          />
+        </SwiperSlide>
+        <SwiperSlide>
+          <Committee
+            name="Moriom Akter"
+            pod="Assistant of English Wing"
+            fb="#"
+            url="assets/image/unwoman.png"
+          />
+        </SwiperSlide>
+        <SwiperSlide>
+          <Committee
+            name="Mahfuz Alam Oni"
+            pod="Assistant of English Wing"
+            fb="#"
+            url="assets/image/unman.png"
+          />
+        </SwiperSlide>
+
+        <SwiperSlide>
+          <Committee
+            name="Oyshee Rahman"
+            pod="Assistant of English Wing"
+            fb="#"
+            url="assets/image/unwoman.png"
+          />
+        </SwiperSlide>
+        <SwiperSlide>
+          <Committee
+            name="Zarin Tabassum Prapti"
+            pod="Assistant of English Wing"
+            fb="#"
+            url="assets/image/unwoman.png"
+          />
+        </SwiperSlide>
+        <SwiperSlide>
+          <Committee
+            name="Zeon Hossain"
+            pod="Assistant Human Welfare secreatary"
+            fb="#"
+            url="assets/image/unwoman.png"
           />
         </SwiperSlide>
       </Swiper>
