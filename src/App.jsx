@@ -20,7 +20,7 @@ function App() {
                 যুক্তি...সততা...মুক্তি
               </div>
               <div className="mt-11 pl-3 text-6xl md:text-5xl lg:text-7xl mb-7 font-bold max-w-lg">
-                <p className="underline">
+                <p className="text-zinc-950">
                   Begum Rokeya University Debate Forum (BRUDF)
                 </p>
               </div>
@@ -79,10 +79,10 @@ function App() {
             <div className="container px-6 pt-2 mx-auto">
               <div className="grid grid-cols-1 items-stretch gap-8 mt-5 xl:mt-16 md:grid-cols-2 xl:grid-cols-2">
                 <Committee
-                  name="Shamim Ahmmed"
-                  url="assets/image/tuli.jpg"
+                  name="Ishrat Jahan Tumpa"
+                  url="assets/image/tumpa.jpg"
                   fb="www.google.com"
-                  pod="president (2023-2024)"
+                  pod="President (2023-2024)"
                 />
                 <Committee
                   name="Ishrat Jahan Tumpa"
@@ -105,7 +105,7 @@ function App() {
           <h2 class="text-2xl font-semibold text-center mb-6">
             <span class="border-b-2 border-gray-600 pb-2">Notice Board</span>
           </h2>
-          <div class="grid items-stretch grid-cols-2 px-3 md:grid-cols-2 lg:grid-cols-3 gap-8">
+          <div class="grid items-stretch h-auto grid-cols-2 px-3 md:grid-cols-2 lg:grid-cols-3 gap-8">
             <Notice
               tittle="Tournament Registration"
               discription="Tournament Registratrion is open now. If you are a member of BRUDF then you can fill this form."
@@ -131,40 +131,47 @@ function App() {
       </section>
       <section className="h-auto pt-4 pb-12 bg-[#edc96d] dark:bg-gray-800">
         <h2 class="text-4xl font-semibold text-center mb-6">
-          <span class="border-b-2 border-gray-600 pb-2">Photo Gallery</span>
+          <span class="border-b-2 border-gray-600 pb-2 dark:text-cyan-50">
+            Photo Gallery
+          </span>
         </h2>
         <div class=" py-16">
           <div class="container mx-auto grid gap-4 md:grid-cols-2 lg:grid-cols-3">
             <ImageCardv2
               link="https://www.facebook.com/rishad.nur"
-              discription="First demo pic"
-              url="assets/image/labu.jpg"
+              discription="14 Batch freshers"
+              url="assets/image/all members.jpg"
             />
             <ImageCardv2
               link="https://www.facebook.com/rishad.nur"
-              discription="First demo pic"
-              url="assets/image/tuli.jpg"
+              discription="26th march, 2023"
+              url="assets/image/full1.jpg"
             />
             <ImageCardv2
               link="https://www.facebook.com/rishad.nur"
-              discription="First demo pic"
+              discription="On going debate"
               url="assets/image/IMG_2952.JPG"
             />
 
             <ImageCardv2
               link="https://www.facebook.com/rishad.nur"
-              discription="First demo pic"
-              url="assets/image/IMG_4753.JPG"
+              discription="15 august, 2023"
+              url="assets/image/full2.jpg"
             />
             <ImageCardv2
               link="https://www.facebook.com/rishad.nur"
-              discription="First demo pic"
+              discription="Intra BRUDF Debate Tournament-2023"
               url="assets/image/upload1.jpg"
             />
             <ImageCardv2
               link="https://www.facebook.com/rishad.nur"
-              discription="First demo pic"
-              url="assets/image/IMG_3011.JPG"
+              discription="Our chief moderator"
+              url="assets/image/tuhin sir.jpg"
+            />
+            <ImageCardv2
+              link="https://www.facebook.com/rishad.nur"
+              discription="Debate adda"
+              url="assets/image/Round meeting.jpg"
             />
           </div>
         </div>

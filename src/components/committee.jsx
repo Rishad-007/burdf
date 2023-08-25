@@ -10,7 +10,7 @@ export const Committee = ({ name, url, pod, fb }) => {
         alt=""
       />
 
-      <h1 className="mt-4 text-2xl font-semibold text-gray-950 capitalize dark:text-black group-hover:text-white">
+      <h1 className="mt-4 h-12 text-2xl font-semibold text-gray-950 capitalize dark:text-black group-hover:text-white">
         {name}
       </h1>
 

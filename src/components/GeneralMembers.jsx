@@ -32,242 +32,235 @@ export const GeneralMembers = () => {
       >
         <SwiperSlide>
           <Committee
-            name="MD. Rishad Nur"
-            pod="Publicity Secretary"
+            name="Abdul Khalek"
+            pod="Vice President(Debate)"
             fb="#"
-            url="assets/image/tuli.jpg"
-          />
-        </SwiperSlide>
-        <SwiperSlide>
-          <Committee
-            name="Abdullah Al Asif Akondo"
-            url="assets/image/tuli.jpg"
-            pod="Vice president"
-            fb="#"
+            url="assets/image/Khalek.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
           <Committee
             name="Billal Hossain"
-            pod="Vice President"
+            url="assets/image/billal.jpg"
+            pod="Vice President(Admin)"
+            fb="#"
+          />
+        </SwiperSlide>
+        <SwiperSlide>
+          <Committee
+            name="Jannatunnahar Tuli"
+            pod="Vice President(Admin)"
             fb="#"
             url="assets/image/tuli.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
           <Committee
-            name="Al-amin Shadik Sayem"
-            pod="Vice President"
+            name="Md Faruk Hosen"
+            pod="Vice President(Debate)"
             fb="#"
-            url="assets/image/tuli.jpg"
+            url="assets/image/faruk.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
           <Committee
-            name="Asif Mahmud"
-            pod="Vice President"
+            name="Juthy Rani"
+            pod="Joint General Secretary"
             fb="#"
-            url="assets/image/tuli.jpg"
+            url="assets/image/juthy.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
           <Committee
-            name="Billal Hossain"
-            pod="Vice President"
+            name="MD. Robayed Hasan"
+            pod="Organising Secretary"
             fb="#"
-            url="assets/image/tuli.jpg"
+            url="assets/image/robayed.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
           <Committee
-            name="Galiba Ibnat"
-            pod="Vice President"
+            name="MSR Siddik"
+            pod="Organising Secretary"
             fb="#"
-            url="assets/image/tuli.jpg"
-          />
-        </SwiperSlide>
-        <SwiperSlide>
-          <Committee
-            name="Gazi Azam Hossan"
-            pod="Vice President"
-            fb="#"
-            url="assets/image/tuli.jpg"
-          />
-        </SwiperSlide>
-        <SwiperSlide>
-          <Committee
-            name="Imratul Jannat Usha"
-            pod="Vice President"
-            fb="#"
-            url="assets/image/tuli.jpg"
-          />
-        </SwiperSlide>
-        <SwiperSlide>
-          <Committee
-            name="Juthi Rani"
-            pod="Publicity Secretary"
-            fb="#"
-            url="assets/image/tuli.jpg"
-          />
-        </SwiperSlide>
-        <SwiperSlide>
-          <Committee
-            name="Mahafuzar Rahman Rifat"
-            pod="Publicity Secretary"
-            fb="#"
-            url="assets/image/tuli.jpg"
-          />
-        </SwiperSlide>
-        <SwiperSlide>
-          <Committee
-            name="Maheda Taiyeba"
-            pod="Publicity Secretary"
-            fb="#"
-            url="assets/image/tuli.jpg"
-          />
-        </SwiperSlide>
-        <SwiperSlide>
-          <Committee
-            name="MD Abul Khayer Jayed"
-            pod="Publicity Secretary"
-            fb="#"
-            url="assets/image/tuli.jpg"
-          />
-        </SwiperSlide>
-        <SwiperSlide>
-          <Committee
-            name="MD Hridoy"
-            pod="Publicity Secretary"
-            fb="#"
-            url="assets/image/tuli.jpg"
-          />
-        </SwiperSlide>
-        <SwiperSlide>
-          <Committee
-            name="Md Juwel Rana"
-            pod="Publicity Secretary"
-            fb="#"
-            url="assets/image/tuli.jpg"
-          />
-        </SwiperSlide>
-        <SwiperSlide>
-          <Committee
-            name="Md Siddikur Rahman"
-            pod="Publicity Secretary"
-            fb="#"
-            url="assets/image/tuli.jpg"
-          />
-        </SwiperSlide>
-        <SwiperSlide>
-          <Committee
-            name="Md. Masudur Rahaman Masud"
-            pod="Publicity Secretary"
-            fb="#"
-            url="assets/image/tuli.jpg"
-          />
-        </SwiperSlide>
-        <SwiperSlide>
-          <Committee
-            name="Nimmi Akhter"
-            pod="Publicity Secretary"
-            fb="#"
-            url="assets/image/tuli.jpg"
+            url="assets/image/siddik.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
           <Committee
             name="Reny Akter"
-            pod="Publicity Secretary"
+            pod="Workshop and Reading circle Secreatary (english)"
             fb="#"
-            url="assets/image/tuli.jpg"
+            url="assets/image/reny.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
           <Committee
-            name="Robayed Zahin"
-            pod="Publicity Secretary"
+            name="Masudur Rahman"
+            pod="IT Secretary"
             fb="#"
-            url="assets/image/tuli.jpg"
+            url="assets/image/masud.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
           <Committee
-            name="Saidur Rahman Drubo"
-            pod="Publicity Secretary"
+            name="Mahfuzar Rahman Refat"
+            pod="Workshop and Reading circle Secreatary (english)"
             fb="#"
-            url="assets/image/tuli.jpg"
+            url="assets/image/rifat.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
           <Committee
-            name="জুয়েল হক"
+            name="Imratul Jannat usa"
             pod="Publicity Secretary"
             fb="#"
-            url="assets/image/tuli.jpg"
+            url="assets/image/usa.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
           <Committee
-            name="MD. Rishad Nur"
-            pod="Publicity Secretary"
+            name="Abul Khayer Jayed"
+            pod="Office Secretary"
             fb="#"
-            url="assets/image/tuli.jpg"
+            url="assets/image/jayed.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
           <Committee
-            name="MD. Rishad Nur"
-            pod="Publicity Secretary"
+            name="Galiba Ibnat"
+            pod="Treasurer"
             fb="#"
-            url="assets/image/tuli.jpg"
+            url="assets/image/galiba.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
           <Committee
-            name="MD. Rishad Nur"
-            pod="Publicity Secretary"
+            name="Gazi Azam"
+            pod="Debate Research Secretary"
             fb="#"
-            url="assets/image/tuli.jpg"
+            url="assets/image/gazi.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
           <Committee
-            name="MD. Rishad Nur"
-            pod="Publicity Secretary"
+            name="Al-Amin Sadik Sayem"
+            pod="Campus Affairs Secretary"
             fb="#"
-            url="assets/image/tuli.jpg"
+            url="assets/image/sayem.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
           <Committee
-            name="MD. Rishad Nur"
-            pod="Publicity Secretary"
+            name="Asif Mahmud"
+            pod="Cultural Secretary"
             fb="#"
-            url="assets/image/tuli.jpg"
+            url="assets/image/asif.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
           <Committee
-            name="MD. Rishad Nur"
-            pod="Publicity Secretary"
+            name="Nimmi Akter"
+            pod="Women affairs Secretary"
             fb="#"
-            url="assets/image/tuli.jpg"
+            url="assets/image/unwoman.png"
           />
         </SwiperSlide>
         <SwiperSlide>
           <Committee
-            name="MD. Rishad Nur"
-            pod="Publicity Secretary"
+            name="Juwel Haque"
+            pod="Workshop and Reading Circle Secretary"
             fb="#"
-            url="assets/image/tuli.jpg"
+            url="assets/image/juwel.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
           <Committee
-            name="MD. Rishad Nur"
-            pod="Publicity Secretary"
+            name="Abdullah akondo"
+            pod="Human Welfare Secretary"
             fb="#"
-            url="assets/image/tuli.jpg"
+            url="assets/image/akondo.jpg"
+          />
+        </SwiperSlide>
+        <SwiperSlide>
+          <Committee
+            name="MD. Polash"
+            pod="Associate IT Secretary"
+            fb="#"
+            url="assets/image/polash.jpg"
+          />
+        </SwiperSlide>
+        <SwiperSlide>
+          <Committee
+            name="Maheda Taiyeba"
+            pod="Chief of English Wing"
+            fb="#"
+            url="assets/image/Maheda Taiyeba.jpg"
+          />
+        </SwiperSlide>
+        <SwiperSlide>
+          <Committee
+            name="Abdur Rahman"
+            pod="Chief of English Wing"
+            fb="#"
+            url="assets/image/unman.png"
+          />
+        </SwiperSlide>
+        <SwiperSlide>
+          <Committee
+            name="Md Mustansir Muyaj"
+            pod="Assistant office Secretary"
+            fb="#"
+            url="assets/image/unman.png"
+          />
+        </SwiperSlide>
+
+        <SwiperSlide>
+          <Committee
+            name="Umme Habiba Usha"
+            pod="Assistant office Secretary"
+            fb="#"
+            url="assets/image/unwoman.png"
+          />
+        </SwiperSlide>
+        <SwiperSlide>
+          <Committee
+            name="Sabera binte Muhtarizh"
+            pod="Assistant Treasurer"
+            fb="#"
+            url="assets/image/unwoman.png"
+          />
+        </SwiperSlide>
+        <SwiperSlide>
+          <Committee
+            name="Khadimul Sarder"
+            pod="Assistant Treasurer"
+            fb="#"
+            url="assets/image/unwoman.png"
+          />
+        </SwiperSlide>
+        <SwiperSlide>
+          <Committee
+            name="Shayma akhter"
+            pod="Assistant Treasurer"
+            fb="#"
+            url="assets/image/unwoman.png"
+          />
+        </SwiperSlide>
+        <SwiperSlide>
+          <Committee
+            name="Sadia Tahsin Shuchi"
+            pod="Assistant Campus Afiiairs Secretary"
+            fb="#"
+            url="assets/image/unwoman.png"
+          />
+        </SwiperSlide>
+        <SwiperSlide>
+          <Committee
+            name="Humayun Kabir"
+            pod="Assistant Campus Afiiairs Secretary"
+            fb="#"
+            url="assets/image/unman.png"
           />
         </SwiperSlide>
         <SwiperSlide>
