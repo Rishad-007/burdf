@@ -250,7 +250,7 @@ export const GeneralMembers = () => {
         <SwiperSlide>
           <Committee
             name="Sadia Tahsin Shuchi"
-            pod="Assistant Campus Afiiairs Secretary"
+            pod="Assistant Campus Affairs Secretary"
             fb="#"
             url="assets/image/unwoman.png"
           />
@@ -258,7 +258,7 @@ export const GeneralMembers = () => {
         <SwiperSlide>
           <Committee
             name="Humayun Kabir"
-            pod="Assistant Campus Afiiairs Secretary"
+            pod="Assistant Campus Affairs Secretary"
             fb="#"
             url="assets/image/unman.png"
           />
