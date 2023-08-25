@@ -1,7 +1,7 @@
 import React from "react";
 import { MdMail } from "react-icons/md";
 
-export const Committee = ({ name, url, pod, fb }) => {
+export const Committee = ({ name, url, pod, fb, mail }) => {
   return (
     <div className="flex flex-col min-w-[300px] bg-[#d87f2c] shadow-2xl items-center p-8 transition-colors duration-200 transform cursor-pointer group hover:bg-[#8B1500] rounded-xl">
       <img
@@ -20,7 +20,7 @@ export const Committee = ({ name, url, pod, fb }) => {
 
       <div className="flex mt-3 -mx-2">
         <a
-          href={fb}
+          href={mail}
           className="mx-2 text-gray-600 dark:text-gray-300 hover:text-gray-500 dark:hover:text-gray-300 group-hover:text-white"
           aria-label="Gmail"
         >

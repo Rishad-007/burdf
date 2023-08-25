@@ -81,13 +81,15 @@ function App() {
                 <Committee
                   name="Israt Jahan Tumpa"
                   url="assets/image/tumpa.jpg"
-                  fb="www.google.com"
+                  fb="https://www.facebook.com/isratjahan8311"
                   pod="President (2023-2024)"
+                  mail="mailto:tisrat57@gmail.com"
                 />
                 <Committee
                   name="MD. Rishad Nur"
                   url="assets/image/Rishad.jpg"
                   pod="General secratery (2023-2024)"
+                  mail="mailto:rishad.nur007@gmail.com"
                   fb="https://www.facebook.com/rishad.nur"
                 />
               </div>
