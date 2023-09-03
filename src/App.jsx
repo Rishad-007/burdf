@@ -109,9 +109,9 @@ function App() {
           </h2>
           <div class="grid items-stretch h-auto grid-cols-2 px-3 md:grid-cols-2 lg:grid-cols-3 gap-8">
             <Notice
-              tittle="Tournament Registration"
-              discription="Tournament Registratrion is open now. If you are a member of BRUDF then you can fill this form."
-              link="https://fb.watch/mzrmZgoe5F/"
+              tittle="নতুন সদস্য রেজিস্ট্রেশন "
+              discription="বিশ্ববিদ্যালয় এর নবাগত ১৫ তম ব্যাচকে স্বাগতম। বেগম রোকেয়া ইউনিভার্সিটি ডিবেট ফোরাম প্রতিবারের মত এবারে নতুন সদস্যদের বিতর্ক অঙ্গনে যুক্ত করার লক্ষ্যে 'নতুন সদস্য সংগ্রহ করছে'। আপনি যদি একজন উপস্থাপক/পাবলিক স্পিকার/বিতার্কিক হতে চান, এখনি নিম্নক্ত ফর্মটি পূরণ করে ফেলুন"
+              link="https://forms.gle/M5RU5PhhWoLZGfPY9"
             />
             <Notice
               tittle="New Executive Committee Election"
