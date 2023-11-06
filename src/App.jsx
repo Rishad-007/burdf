@@ -205,6 +205,16 @@ function App() {
               discription="Debate Evaluation"
               url="assets/image/IMG_6257.jpeg"
             />
+            <ImageCardv2
+              link="https://www.facebook.com/rishad.nur"
+              discription="মনোযোগী দর্শক"
+              url="assets/image/monojog.jpeg"
+            />
+            <ImageCardv2
+              link="https://www.facebook.com/rishad.nur"
+              discription="আঞ্চলিক বিতর্ক শেষে আমাদের পরিবার"
+              url="assets/image/all together.jpeg"
+            />
           </div>
         </div>
       </section>
