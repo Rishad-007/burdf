@@ -15,8 +15,8 @@ export const Events = ({ Event_name_1, Time_1,Time_2,Time_3, Event_name_2, Event
             {/* <!-- Practice Schedule --> */}
             <div class="bg-white p-6 rounded-lg shadow-md">
               <h3 class="text-xl font-semibold mb-4">Practice Schedule</h3>
-              <p class="text-gray-700 mb-2">Wednesday: 4:30 PM - 6:00 PM</p>
-              <p class="text-gray-700">Satarday: 4:30 PM - 6:00 PM</p>
+              <p class="text-gray-700 mb-2">Wednesday: 3:30 PM - 5:00 PM</p>
+              <p class="text-gray-700">Satarday: 3:30 PM - 5:00 PM</p>
 
               <div className="py-10">
                 To become new member,{" "}

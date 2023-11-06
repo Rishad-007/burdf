@@ -124,8 +124,8 @@ function App() {
               link="#"
             />
             <Notice
-              tittle="New Committee announcement"
-              discription="at 25th march, new committee will be formend. the committe will be active for one year"
+              tittle="Session time change"
+              discription="For winter season, The session time is changed. from now, the session will start at 3.30 PM. this is both applicable for Bangla and English session"
               link="https://fb.watch/mzrmZgoe5F/"
             />
           </div>
@@ -197,12 +197,12 @@ function App() {
             />
             <ImageCardv2
               link="https://www.facebook.com/rishad.nur"
-              discription="Debate Evaluation"
+              discription="Audience crowd for debate"
               url="assets/image/IMG_6258.jpeg"
             />
             <ImageCardv2
               link="https://www.facebook.com/rishad.nur"
-              discription="Debate Evaluation"
+              discription="Our Speacial Guests and Moderator"
               url="assets/image/IMG_6257.jpeg"
             />
             <ImageCardv2
