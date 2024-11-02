@@ -108,10 +108,10 @@ function App() {
             <span class="border-b-2 border-gray-600 pb-2">Notice Board</span>
           </h2>
           <div class="grid items-stretch h-auto grid-cols-2 px-3 md:grid-cols-2 lg:grid-cols-3 gap-8">
-            <Notice
+            <Notice2
               tittle="নতুন সদস্য রেজিস্ট্রেশন "
-              discription="বিশ্ববিদ্যালয় এর নবাগত ১৫ তম ব্যাচকে স্বাগতম। বেগম রোকেয়া ইউনিভার্সিটি ডিবেট ফোরাম প্রতিবারের মত এবারে নতুন সদস্যদের বিতর্ক অঙ্গনে যুক্ত করার লক্ষ্যে 'নতুন সদস্য সংগ্রহ করছে'। আপনি যদি একজন উপস্থাপক/পাবলিক স্পিকার/বিতার্কিক হতে চান, এখনি নিম্নক্ত ফর্মটি পূরণ করে ফেলুন"
-              link="https://forms.gle/M5RU5PhhWoLZGfPY9"
+              discription="বিশ্ববিদ্যালয় এর নবাগত ১৬ তম ব্যাচকে স্বাগতম। বেগম রোকেয়া ইউনিভার্সিটি ডিবেট ফোরাম প্রতিবারের মত এবারে নতুন সদস্যদের বিতর্ক অঙ্গনে যুক্ত করার লক্ষ্যে 'নতুন সদস্য সংগ্রহ করছে'। আপনি যদি একজন উপস্থাপক/পাবলিক স্পিকার/বিতার্কিক হতে চান, এখনি নিম্নক্ত ফর্মটি পূরণ করে ফেলুন"
+              link="https://forms.gle/hYz6u3hHjAsr1dbQ9"
             />
             <Notice
               tittle="New Executive Committee Election"
