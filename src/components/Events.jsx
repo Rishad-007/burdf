@@ -1,7 +1,13 @@
 import React from "react";
 
-
-export const Events = ({ Event_name_1, Time_1,Time_2,Time_3, Event_name_2, Event_name_3 }) => {
+export const Events = ({
+  Event_name_1,
+  Time_1,
+  Time_2,
+  Time_3,
+  Event_name_2,
+  Event_name_3,
+}) => {
   return (
     <div>
       <div className="bg-gray-100 py-16">
@@ -20,7 +26,12 @@ export const Events = ({ Event_name_1, Time_1,Time_2,Time_3, Event_name_2, Event
 
               <div className="py-10">
                 To become new member,{" "}
-                <a href="https://forms.gle/4yDhqeKhBXtjgWPr7" className="text-cyan-600">Fill this LINK</a>
+                <a
+                  href="https://forms.gle/hYz6u3hHjAsr1dbQ9"
+                  className="text-cyan-600"
+                >
+                  Fill this LINK
+                </a>
               </div>
             </div>
 

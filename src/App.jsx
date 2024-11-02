@@ -115,7 +115,7 @@ function App() {
             />
             <Notice
               tittle="New Executive Committee Election"
-              discription="Upcoming 24th of august, an election will take place to construct new executive committee. go to link to learn more."
+              discription="Upcoming 14th of November, an election will take place to construct new executive committee. go to link to learn more."
               link="https://www.facebook.com/groups/1019690851430799/permalink/6611195522280276/?app=fbl"
             />
             <Notice
@@ -126,6 +126,16 @@ function App() {
             <Notice
               tittle="Session time change"
               discription="For winter season, The session time is changed. from now, the session will start at 3.30 PM. this is both applicable for Bangla and English session"
+              link="https://fb.watch/mzrmZgoe5F/"
+            />
+            <Notice
+              tittle="Motion release for school Finalist teams"
+              discription="সফল বিপ্লবের জন্য রাজনৈতিক সংস্কারের চাইতে অর্থনৈতিক সংস্কার অধিক গুরুত্বপূর্ণ"
+              link="https://fb.watch/mzrmZgoe5F/"
+            />
+            <Notice
+              tittle="Motion release for college Finalist teams"
+              discription="শিক্ষার সুষ্ঠু বিকাশে রাজনীতিমুক্ত শিক্ষাঙ্গন সময়ের দাবি"
               link="https://fb.watch/mzrmZgoe5F/"
             />
           </div>
@@ -182,13 +192,13 @@ function App() {
             />
             <ImageCardv2
               link="https://www.facebook.com/rishad.nur"
-              discription="Debate Evaluation"
-              url="assets/image/IMG_6245.jpeg"
+              discription="After arranging Rangpur divisional tournament"
+              url="assets/image/IMG_6255.jpeg"
             />
             <ImageCardv2
               link="https://www.facebook.com/rishad.nur"
-              discription="Debate Evaluation"
-              url="assets/image/IMG_6255.jpeg"
+              discription="All female judge panel from brudf"
+              url="assets/image/IMG_6134.jpeg"
             />
             <ImageCardv2
               link="https://www.facebook.com/rishad.nur"
@@ -202,8 +212,8 @@ function App() {
             />
             <ImageCardv2
               link="https://www.facebook.com/rishad.nur"
-              discription="Our Speacial Guests and Moderator"
-              url="assets/image/IMG_6257.jpeg"
+              discription="With dulal sir"
+              url="assets/image/organizing comm.jpeg"
             />
             <ImageCardv2
               link="https://www.facebook.com/rishad.nur"
@@ -295,12 +305,12 @@ function App() {
       <section>
         <div className="px-4">
           <Events
-            Event_name_1="Tournament Tab Round"
-            Time_1="17 August, 2023"
+            Event_name_1="Inter Department debate tournament"
+            Time_1="8 November, 2024"
             Event_name_2="Tournament Final"
-            Time_2="25 August 2023"
+            Time_2="20 November 2024"
             Event_name_3="New Commettee Anouncement"
-            Time_3="25 August 2023"
+            Time_3="20 November 2024"
           />
         </div>
       </section>
