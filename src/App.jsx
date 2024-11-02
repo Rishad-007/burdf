@@ -150,78 +150,78 @@ function App() {
         <div class=" py-16">
           <div class="container mx-auto grid gap-4 md:grid-cols-2 lg:grid-cols-3">
             <ImageCardv2
-              link="https://www.facebook.com/rishad.nur"
+              link="https://www.facebook.com/brudf.2016/"
               discription="14 Batch freshers"
               url="assets/image/all members.jpg"
             />
             <ImageCardv2
-              link="https://www.facebook.com/rishad.nur"
+              link="https://www.facebook.com/brudf.2016/"
               discription="26th march, 2023"
               url="assets/image/full1.jpg"
             />
             <ImageCardv2
-              link="https://www.facebook.com/rishad.nur"
+              link="https://www.facebook.com/brudf.2016/"
               discription="On going debate"
               url="assets/image/IMG_2952.JPG"
             />
 
             <ImageCardv2
-              link="https://www.facebook.com/rishad.nur"
+              link="https://www.facebook.com/brudf.2016/"
               discription="15 august, 2023"
               url="assets/image/full2.jpg"
             />
             <ImageCardv2
-              link="https://www.facebook.com/rishad.nur"
+              link="https://www.facebook.com/brudf.2016/"
               discription="Intra BRUDF Debate Tournament-2023"
               url="assets/image/upload1.jpg"
             />
             <ImageCardv2
-              link="https://www.facebook.com/rishad.nur"
+              link="https://www.facebook.com/brudf.2016/"
               discription="Our chief moderator"
               url="assets/image/tuhin sir.jpg"
             />
             <ImageCardv2
-              link="https://www.facebook.com/rishad.nur"
+              link="https://www.facebook.com/brudf.2016/"
               discription="Debate adda"
               url="assets/image/Round meeting.jpg"
             />
             <ImageCardv2
-              link="https://www.facebook.com/rishad.nur"
+              link="https://www.facebook.com/brudf.2016/"
               discription="Rainy Debate"
               url="assets/image/IMG_6200.jpeg"
             />
             <ImageCardv2
-              link="https://www.facebook.com/rishad.nur"
+              link="https://www.facebook.com/brudf.2016/"
               discription="After arranging Rangpur divisional tournament"
               url="assets/image/IMG_6255.jpeg"
             />
             <ImageCardv2
-              link="https://www.facebook.com/rishad.nur"
+              link="https://www.facebook.com/brudf.2016/"
               discription="All female judge panel from brudf"
               url="assets/image/IMG_6134.jpeg"
             />
             <ImageCardv2
-              link="https://www.facebook.com/rishad.nur"
+              link="https://www.facebook.com/brudf.2016/"
               discription="Debate Evaluation"
               url="assets/image/IMG_6254.jpeg"
             />
             <ImageCardv2
-              link="https://www.facebook.com/rishad.nur"
+              link="https://www.facebook.com/brudf.2016/"
               discription="Audience crowd for debate"
               url="assets/image/IMG_6258.jpeg"
             />
             <ImageCardv2
-              link="https://www.facebook.com/rishad.nur"
+              link="https://www.facebook.com/brudf.2016/"
               discription="With dulal sir"
               url="assets/image/organizing comm.jpeg"
             />
             <ImageCardv2
-              link="https://www.facebook.com/rishad.nur"
+              link="https://www.facebook.com/brudf.2016/"
               discription="মনোযোগী দর্শক"
               url="assets/image/monojog.jpeg"
             />
             <ImageCardv2
-              link="https://www.facebook.com/rishad.nur"
+              link="https://www.facebook.com/brudf.2016/"
               discription="আঞ্চলিক বিতর্ক শেষে আমাদের পরিবার"
               url="assets/image/all together.jpeg"
             />
