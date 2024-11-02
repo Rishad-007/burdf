@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: my-app # Replace 'my-app' with your actual app name
+    env: node
+    plan: free # You can specify your plan (e.g., free, starter, etc.)
+    nodeVersion: 16.x # Specify the desired Node version here
