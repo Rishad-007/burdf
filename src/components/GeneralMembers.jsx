@@ -32,34 +32,34 @@ export const GeneralMembers = () => {
       >
         <SwiperSlide>
           <Committee
-            name="Abdul Khalek"
-            pod="Vice President(Debate)"
-            fb="#"
-            url="assets/image/Khalek.jpg"
-          />
-        </SwiperSlide>
-        <SwiperSlide>
-          <Committee
-            name="Billal Hossain"
-            url="assets/image/billal.jpg"
+            name="Robayed Hasan"
             pod="Vice President(Admin)"
             fb="#"
+            url="assets/image/robayed.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>
           <Committee
-            name="Jannatunnahar Tuli"
-            pod="Vice President(Admin)"
-            fb="#"
-            url="assets/image/tuli.jpg"
-          />
-        </SwiperSlide>
-        <SwiperSlide>
-          <Committee
-            name="Md Faruk Hosen"
+            name="Mahfuzar Rahman Rifat"
+            url="assets/image/rifat.jpg"
             pod="Vice President(Debate)"
             fb="#"
-            url="assets/image/faruk.jpg"
+          />
+        </SwiperSlide>
+        <SwiperSlide>
+          <Committee
+            name="Juthi Rani"
+            pod="Vice President(Debate)"
+            fb="#"
+            url="assets/image/juthy.jpg"
+          />
+        </SwiperSlide>
+        <SwiperSlide>
+          <Committee
+            name="Masudur rahman"
+            pod="Vice President(Admin)"
+            fb="#"
+            url="assets/image/masud.jpg"
           />
         </SwiperSlide>
         <SwiperSlide>

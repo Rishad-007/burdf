@@ -79,16 +79,16 @@ function App() {
             <div className="container px-6 pt-2 mx-auto">
               <div className="grid grid-cols-1 items-stretch gap-8 mt-5 xl:mt-16 md:grid-cols-2 xl:grid-cols-2">
                 <Committee
-                  name="Israt Jahan Tumpa"
-                  url="assets/image/tumpa.jpg"
-                  fb="https://www.facebook.com/isratjahan8311"
-                  pod="President (2023-2024)"
-                  mail="mailto:tisrat57@gmail.com"
-                />
-                <Committee
                   name="MD. Rishad Nur"
                   url="assets/image/Rishad.jpg"
-                  pod="General secratery (2023-2024)"
+                  fb="https://www.facebook.com/rishad.nur"
+                  pod="President (2024-2025)"
+                  mail="mailto:rishad.nur007@gmail.com"
+                />
+                <Committee
+                  name="Imratul Jannat Usha"
+                  url="assets/image/usa.jpg"
+                  pod="General secratery (2024-2025)"
                   mail="mailto:rishad.nur007@gmail.com"
                   fb="https://www.facebook.com/rishad.nur"
                 />
@@ -114,14 +114,14 @@ function App() {
               link="https://forms.gle/hYz6u3hHjAsr1dbQ9"
             />
             <Notice
-              tittle="New Executive Committee Election"
-              discription="Upcoming 14th of November, an election will take place to construct new executive committee. go to link to learn more."
-              link="https://www.facebook.com/groups/1019690851430799/permalink/6611195522280276/?app=fbl"
+              tittle="নবীন বরণ ও আলোচনা সভা ২০২৪"
+              discription="বিশ্ববিদ্যালয়ে এসেছে নবীন ১৬ তম ব্যাচ। দীর্ঘ ৪ দিনের ভাইভা গ্রহণের পর আগামী ৭ তারিখ সকল নতুন সদস্য দের নিয়ে বিআরইউডিএফ নতুন শুরু করতে যাচ্ছে। এদিন সকাল ১১ ঘটিকায় সকল স্টুডেন্ট যারা ভাইভায় অংশ নিয়েছে, তাদেরকে বেরোবির গণিত বিভাগে আসার জন্য আমন্ত্রণ জানানো হচ্ছে। "
+              link="https://www.facebook.com/share/14jZgTt2qAY/?mibextid=9l3rBW"
             />
-            <Notice
-              tittle="Tournament final"
-              discription="Final Debate of the 'Intra Brudf tournament 2023' will take place in 25th august, 2023 at Cafeteria,BRUR "
-              link="#"
+            <Notice2
+              tittle="BRUDF Fresher's Quiz link 2024"
+              discription="For the New Members, we decided to take a short quiz. here is the link to join the quiz "
+              link="https://forms.gle/AAtptwnxZDUWhXB36"
             />
             <Notice
               tittle="Session time change"
@@ -174,6 +174,16 @@ function App() {
               link="https://www.facebook.com/brudf.2016/"
               discription="Intra BRUDF Debate Tournament-2023"
               url="assets/image/upload1.jpg"
+            />
+            <ImageCardv2
+              link="https://www.facebook.com/brudf.2016/"
+              discription="Judge Pannel from BRUDF"
+              url="assets/image/judge.JPG"
+            />
+            <ImageCardv2
+              link="https://www.facebook.com/brudf.2016/"
+              discription="দর্শক শ্রোতা"
+              url="assets/image/dorshok.JPG"
             />
             <ImageCardv2
               link="https://www.facebook.com/brudf.2016/"
